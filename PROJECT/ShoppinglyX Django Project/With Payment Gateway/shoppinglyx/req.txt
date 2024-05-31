@@ -1,0 +1,16 @@
+asgiref==3.3.1
+Django==3.1.5
+Pillow==8.1.0
+pytz==2020.5
+sqlparse==0.4.1
+Dhanashree@2024
+
+
+
+Process: IT Kanchan
+
+Hiring name : Gurjeet Sehra
+
+Contact : +91-9004991750
+
+Shift time : 02pm to 9pm IST
